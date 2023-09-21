@@ -32,7 +32,7 @@ export default function Details() {
             <span className="card_title">{datas.title}</span>
             <span style={{ color: "#8fc700" }}>|</span>
             <span className="card_price">
-              {datas.price.toLocaleString()} تومان
+              {datas.price.toLocaleString()} السعر
             </span>
           </div>
           <div className="card_information">
