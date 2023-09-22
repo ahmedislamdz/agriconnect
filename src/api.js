@@ -2,7 +2,7 @@
 
 import axios from 'axios';
 
-const BASE_API_URL = 'http://127.0.0.1:8000/api';
+const BASE_API_URL = 'https://agriconnect-django-0118a99eb7c4.herokuapp.com/api';
 
 export const registerUser = async (userData) => {
   try {
