@@ -9,7 +9,7 @@ export default function Banner() {
       className="banner"
       id="banner"
       style={{
-        background: 'url("../image/1.png") no-repeat',
+        background: 'url("../image/1.webp") no-repeat',
         backgroundPosition: 'center',
         backgroundSize: 'cover',
       }}
