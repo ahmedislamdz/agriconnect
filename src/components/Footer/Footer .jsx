@@ -67,7 +67,7 @@ export default function Footer() {
             <i>
               <FontAwesomeIcon icon={faEnvelope} />
             </i>
-            name@email.com
+            agriconnect17@email.com
           </a>
           <a href="/" className="links">
             <i>
