@@ -11,7 +11,7 @@ import Footer from './components/Footer/Footer '
 
 
 function App() {
-  let router = createBrowserRouter([
+  let router = useRoutes([
     { path: '/', element: <Main /> },
     { path: '/Products', element: <Products /> },
     { path: '/:id', element: <Details /> },

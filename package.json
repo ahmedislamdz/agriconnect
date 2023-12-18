@@ -1,9 +1,10 @@
 {
-  "homepage": "http://ahmedislamdz.github.io/agriconnect",
   "name": "shoping",
   "version": "0.1.0",
+  "homepage": "https://ahmedislamdz.github.io/agriconnect",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
     "@fortawesome/free-brands-svg-icons": "^6.4.2",
     "@fortawesome/free-solid-svg-icons": "^6.4.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
@@ -46,7 +47,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.0",
-    "webpack": "^5.89.0"
+    "gh-pages": "^6.1.0"
   }
 }
