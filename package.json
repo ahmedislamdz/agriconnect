@@ -1,5 +1,5 @@
 {
-  "homepage": "https://ahmedislamdz.github.io/agriconnect",
+  "homepage": "https://github.com/ahmedislamdz/agriconnect.git",
   "name": "shoping",
   "version": "0.1.0",
   "private": true,
@@ -22,7 +22,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "npm run build && gh-pages -d build -o <agriconnect>",
+    "deploy": "npm run build && gh-pages -d build -o agriconnect",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
