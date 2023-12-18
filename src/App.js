@@ -1,13 +1,13 @@
 import { Navigate, createHashRouter, useRoutes } from 'react-router-dom';
-import Basket from './src/components/Basket/Basket';
-import ContextFilter from './src/components/Context/ContextFilter';
-import ContextProvider from './src/components/Context/ContextProvider';
-import Details from './src/components/Details/Details';
-import FavoritePage from './src/components/Favorite/FavoritePage';
-import Header from './src/components/Header/Header';
-import Main from './src/components/Main/Main';
-import Products from './src/components/Products/Products';
-import Footer from './src/components/Footer/Footer '
+import Basket from './components/Basket/Basket';
+import ContextFilter from './components/Context/ContextFilter';
+import ContextProvider from './components/Context/ContextProvider';
+import Details from './components/Details/Details';
+import FavoritePage from './components/Favorite/FavoritePage';
+import Header from './components/Header/Header';
+import Main from './components/Main/Main';
+import Products from './components/Products/Products';
+import Footer from './components/Footer/Footer '
 
 
 function App() {
