@@ -1,4 +1,4 @@
-import { Navigate, createHashRouter, useRoutes } from 'react-router-dom';
+import { Navigate, createBrowserRouter, createHashRouter, useRoutes } from 'react-router-dom';
 import Basket from './components/Basket/Basket';
 import ContextFilter from './components/Context/ContextFilter';
 import ContextProvider from './components/Context/ContextProvider';
@@ -11,7 +11,7 @@ import Footer from './components/Footer/Footer '
 
 
 function App() {
-  let router = createHashRouter([
+  let router = createBrowserRouter([
     { path: '/', element: <Main /> },
     { path: '/Products', element: <Products /> },
     { path: '/:id', element: <Details /> },
