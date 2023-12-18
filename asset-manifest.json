@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ahmedislamdz/agriconnect.git/static/css/main.1fe4aaad.css",
-    "main.js": "/ahmedislamdz/agriconnect.git/static/js/main.adb504c8.js",
-    "static/media/iranyekanwebregular.e31c09af.woff2": "/ahmedislamdz/agriconnect.git/static/media/iranyekanwebregular.e31c09af.1cb1e330de9f566e76c7.woff2",
-    "index.html": "/ahmedislamdz/agriconnect.git/index.html",
-    "main.1fe4aaad.css.map": "/ahmedislamdz/agriconnect.git/static/css/main.1fe4aaad.css.map",
-    "main.adb504c8.js.map": "/ahmedislamdz/agriconnect.git/static/js/main.adb504c8.js.map"
+    "main.css": "/agriconnect/static/css/main.24bf442a.css",
+    "main.js": "/agriconnect/static/js/main.26a0813a.js",
+    "static/media/iranyekanwebregular.e31c09af.woff2": "/agriconnect/static/media/iranyekanwebregular.e31c09af.1cb1e330de9f566e76c7.woff2",
+    "index.html": "/agriconnect/index.html",
+    "main.24bf442a.css.map": "/agriconnect/static/css/main.24bf442a.css.map",
+    "main.26a0813a.js.map": "/agriconnect/static/js/main.26a0813a.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fe4aaad.css",
-    "static/js/main.adb504c8.js"
+    "static/css/main.24bf442a.css",
+    "static/js/main.26a0813a.js"
   ]
 }
