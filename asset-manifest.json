@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/agriconnect-react/static/css/main.a3e965e8.css",
+    "main.js": "/agriconnect-react/static/js/main.ec678118.js",
+    "static/media/iranyekanwebregular.e31c09af.woff2": "/agriconnect-react/static/media/iranyekanwebregular.e31c09af.1cb1e330de9f566e76c7.woff2",
+    "index.html": "/agriconnect-react/index.html",
+    "main.a3e965e8.css.map": "/agriconnect-react/static/css/main.a3e965e8.css.map",
+    "main.ec678118.js.map": "/agriconnect-react/static/js/main.ec678118.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3e965e8.css",
+    "static/js/main.ec678118.js"
+  ]
+}
