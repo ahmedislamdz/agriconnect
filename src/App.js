@@ -9,7 +9,6 @@ import FavoritePage from './components/Favorite/FavoritePage';
 import Header from './components/Header/Header';
 import Main from './components/Main/Main';
 import Products from './components/Products/Products';
-import Footer from './components/Footer/Footer';
 
 // استخدام createBrowserRouter أو createHashRouter
 const BrowserRouter = createBrowserRouter();
@@ -30,7 +29,6 @@ function App() {
       <ContextFilter>
         <Header />
         {router}
-        <Footer />
       </ContextFilter>
     </ContextProvider>
   );
